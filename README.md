@@ -13,6 +13,15 @@
 
 ---
 
+## 🚀 시작하기
+
+### 방법 1 — EXE 실행 (권장)
+
+1. [Releases](../../releases) 에서 `PeekAlert.exe` 다운로드
+2. 원하는 폴더에 놓고 실행
+3. 트레이 아이콘 우클릭 → **설정** 에서 서브모니터 지정
+
+---
 ## ✨ 주요 기능
 
 | 기능 | 설명 |
@@ -36,44 +45,6 @@
 🤖 AI 어시스턴트와 함께 제작
 이 프로젝트의 코드는 Claude (Anthropic) 와의 대화를 통해 작성되었습니다.
 아이디어와 기획은 사람이, 코드 구현은 AI가 함께한 협업 프로젝트입니다.
-
----
-
-
-## 🚀 시작하기
-
-### 방법 1 — EXE 실행 (권장)
-
-1. [Releases](../../releases) 에서 `PeekAlert.exe` 다운로드
-2. 원하는 폴더에 놓고 실행
-3. 트레이 아이콘 우클릭 → **설정** 에서 서브모니터 지정
-
-### 방법 2 — Python으로 직접 실행
-
-```bash
-# Python 3.9 이상 필요
-python peekalert.py
-```
-
-> 첫 실행 시 `pystray`, `Pillow` 패키지가 자동 설치됩니다.
-
----
-
-## 🔨 EXE 직접 빌드
-
-세 파일을 같은 폴더에 놓고 실행하세요.
-
-```
-peekalert.py
-make_icon.py
-build.py
-```
-
-```bash
-python build.py
-```
-
-빌드가 완료되면 `dist/PeekAlert.exe` 가 생성됩니다.
 
 ---
 
