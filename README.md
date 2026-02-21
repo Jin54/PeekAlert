@@ -27,6 +27,10 @@
 | 🗂️ 트레이 상주 | 시스템 트레이에서 조용히 실행, 우클릭으로 설정/종료 |
 | 💾 설정 자동 저장 | 변경 사항이 JSON 파일에 저장되어 재시작 후에도 유지 |
 
+<img width="346" height="691" alt="image" src="https://github.com/user-attachments/assets/807aa069-5514-418c-851b-255f7ab26eab" />
+
+<img width="399" height="209" alt="image" src="https://github.com/user-attachments/assets/94562c2f-02b0-4532-8eca-653564b6572c" />
+
 ---
 
 ## 🚀 시작하기
